@@ -29,6 +29,7 @@ li a:hover {
 li a.active {
     background-color: #04AA6D;
     color: rgb(255, 0, 0);
+}
 h1 {
     text-align: center;
     color:blueviolet;
